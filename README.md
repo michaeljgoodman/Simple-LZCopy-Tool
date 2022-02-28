@@ -1,5 +1,5 @@
 # LZCopy commandline tool
-This tool provides a simple mechanisms for uncompressing files compressed with LZSS compression. It uses the `lzexpand` Windows API library, and passes the filenames you input straight into a call to `LZCopy` 
+This tool provides a simple mechanism for uncompressing files compressed with LZSS compression. It uses the `lzexpand` Windows API library, and passes the filenames you input straight into a call to `LZCopy` 
 
 ## Usage
 `.\LZCopy.exe compressed_file uncompressed_file`
