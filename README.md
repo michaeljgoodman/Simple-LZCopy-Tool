@@ -6,7 +6,7 @@ This tool provides a simple mechanisms for uncompressing files compressed with L
 
 or
 
-``.\LZCopy.exe compressed_file` _this will default the output file to out.bin_
+`.\LZCopy.exe compressed_file` _this will default the output file to out.bin_
 
 ## Disclaimer
 I basically made this to decompress a single file and understand the LZ Expand API. It sees no evil, hears no evil, speaks no evil. Use with care as I literally catch no errors.
